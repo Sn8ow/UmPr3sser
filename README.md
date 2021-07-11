@@ -35,3 +35,6 @@
 ![obraz](https://user-images.githubusercontent.com/80784394/125198027-7ace2480-e260-11eb-8b44-b15129092e54.png)
 
 2. And now complete that in the file settings.json. For instructions see above ##Installation
+
+## Support
+[Official Discord Server](https://discord.gg/Y3rhmyeFZj) | [Facebook Group](https://www.facebook.com/groups/2947046355574904/)
